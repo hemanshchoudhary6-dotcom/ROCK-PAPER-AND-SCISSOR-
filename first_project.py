@@ -47,7 +47,8 @@ else:
         else:
              print("KUCH TOH HUG DIYA MENE HE ")
 
-        print(f"Wins: {win} | Losses: {loose} |DRAWS : {draw}")   
+        print(f"Wins: {win} | Losses: {loose} |DRAWS : {draw}")  
+        print("this is the change") 
 
 
 
